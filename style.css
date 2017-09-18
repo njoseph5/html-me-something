@@ -1,0 +1,44 @@
+/* CSS file for index.html*/
+h1{
+    display:block;
+    font-size:2em;
+    font-weight: bold;
+    margin-top: 65px;
+    margin-left: 20px;
+}
+.box{
+  border: 1px solid green ;
+  background-color: teal;
+}
+#hstyle{
+    font-family:cursive;
+    font-weight: bold;
+}
+h2{
+    display:block;
+    font-size:20px;
+    font-weight: bold;
+    margin-top: 35px;
+    margin-left: 20px;
+}
+li a{
+    font-size: 20px
+    color: blue;
+}
+a:hover{
+    color:red;
+}
+div {
+
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+}
+p{
+    font-size: 18px;
+    font-family: sans-serif;
+}
+footer p{
+    font-size: 14px;
+}
